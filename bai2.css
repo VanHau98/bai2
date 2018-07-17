@@ -1,0 +1,11 @@
+.container-fluid .col-md-12 {
+  background: red;
+  height: 300px;
+}
+.container-fluid .col-md-12 h2 {
+  text-align: center;
+  line-height: 150px;
+}
+.container-fluid .col-md-12 form {
+  float: left;
+}
