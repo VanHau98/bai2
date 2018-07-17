@@ -1,7 +1,6 @@
 .container-fluid .phong {
   height: 600px;
   background: #aad4ff;
-  background: -webkit-gradient(linear, left top, right top, from(#56aaff), to(#007fff));
   background: linear-gradient(to right, #56aaff, #007fff);
 }
 .container-fluid .phong .box1 .logo {
@@ -82,4 +81,3 @@
 .container-fluid .phong .box2 a {
   text-decoration: none;
 }
-/*# sourceMappingURL=bai2.css.map */
